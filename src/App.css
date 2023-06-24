@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.App {
+    display: grid;
+    grid-template-columns: auto 1fr;
+
+    @media (max-width: 640px) {
+        display: block;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.navImportant {
+    display: block!important;
+}
