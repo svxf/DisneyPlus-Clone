@@ -2,6 +2,7 @@
   <img width="220" align="right" src="/resources/logo.svg"/>
   <br>
   <h1>📽️ DisneyPlus Clone | A movie site inspired by disney and some other stuff</h1>
+  <h3><a href="https://disneyplus-clone-c7064.web.app">Preview</a></h3>
 </div>
 
 ## 💻 Technology
