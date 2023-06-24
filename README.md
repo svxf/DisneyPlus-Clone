@@ -1,5 +1,14 @@
-# Getting Started with Create React App and Redux
+<div>
+  <img width="220" align="right" src="/resources/logo.svg"/>
+  <br>
+  <h1>📽️ Disney | A movie site inspired by disney and some other stuff</h1>
+</div>
 
+## 💻 Technology
+- Firebase
+- React
+
+## 🚀 Running
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
