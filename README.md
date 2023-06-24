@@ -1,7 +1,7 @@
 <div>
   <img width="220" align="right" src="/resources/logo.svg"/>
   <br>
-  <h1>📽️ Disney | A movie site inspired by disney and some other stuff</h1>
+  <h1>📽️ DisneyPlus Clone | A movie site inspired by disney and some other stuff</h1>
 </div>
 
 ## 💻 Technology
